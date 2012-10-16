@@ -9,7 +9,7 @@ if ( isset( $_POST['email'] ) && empty( $_POST['s_check'] ) ) :
 	/**
 	 * Enter your email here
 	 */
-	$email = 'name@example.com';
+	$email = 'tekelephant@gmail.com';
 
 	/**
 	 * Language strings
